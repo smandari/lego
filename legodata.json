@@ -1,0 +1,850 @@
+[
+  {
+    "year": 2019,
+    "theme_name": "LEGO Originals",
+    "set_name": "Parts for Wooden Minifigure",
+    "num_of_parts": 29,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2018,
+    "theme_name": "Books",
+    "set_name": "Parts for 5005666-1 Animal Atlas",
+    "num_of_parts": 60,
+    "partcatsperset": 5,
+    "colorsperset": 4
+  },
+  {
+    "year": 2015,
+    "theme_name": "Scooby-Doo",
+    "set_name": "Haunted Lighthouse",
+    "num_of_parts": 437,
+    "partcatsperset": 2,
+    "colorsperset": 2
+  },
+  {
+    "year": 2015,
+    "theme_name": "Scooby-Doo",
+    "set_name": "Mummy Museum Mystery",
+    "num_of_parts": 110,
+    "partcatsperset": 2,
+    "colorsperset": 2
+  },
+  {
+    "year": 2015,
+    "theme_name": "Scooby-Doo",
+    "set_name": "Mystery Mansion",
+    "num_of_parts": 861,
+    "partcatsperset": 2,
+    "colorsperset": 2
+  },
+  {
+    "year": 2015,
+    "theme_name": "Scooby-Doo",
+    "set_name": "Mystery Plane Adventures",
+    "num_of_parts": 128,
+    "partcatsperset": 2,
+    "colorsperset": 2
+  },
+  {
+    "year": 2015,
+    "theme_name": "Scooby-Doo",
+    "set_name": "The Mystery Machine",
+    "num_of_parts": 300,
+    "partcatsperset": 2,
+    "colorsperset": 2
+  },
+  {
+    "year": 2015,
+    "theme_name": "Scooby-Doo",
+    "set_name": "Scooby-Doo Surprises: Mystery Inc. Gang",
+    "num_of_parts": 26,
+    "partcatsperset": 2,
+    "colorsperset": 2
+  },
+  {
+    "year": 2008,
+    "theme_name": "Star Wars",
+    "set_name": "Hailfire Droid & Spider Droid",
+    "num_of_parts": 249,
+    "partcatsperset": 1,
+    "colorsperset": 2
+  },
+  {
+    "year": 2008,
+    "theme_name": "Duplo and Explore",
+    "set_name": "Early Simple Machines Set",
+    "num_of_parts": 102,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2007,
+    "theme_name": "Star Wars",
+    "set_name": "Droids Battle Pack",
+    "num_of_parts": 102,
+    "partcatsperset": 1,
+    "colorsperset": 2
+  },
+  {
+    "year": 2006,
+    "theme_name": "Creator Expert",
+    "set_name": "Holiday Train",
+    "num_of_parts": 969,
+    "partcatsperset": 4,
+    "colorsperset": 2
+  },
+  {
+    "year": 2006,
+    "theme_name": "Piraka",
+    "set_name": "Reidak",
+    "num_of_parts": 41,
+    "partcatsperset": 3,
+    "colorsperset": 2
+  },
+  {
+    "year": 2006,
+    "theme_name": "Piraka",
+    "set_name": "Vezok",
+    "num_of_parts": 42,
+    "partcatsperset": 3,
+    "colorsperset": 2
+  },
+  {
+    "year": 2006,
+    "theme_name": "Piraka",
+    "set_name": "Thok",
+    "num_of_parts": 42,
+    "partcatsperset": 3,
+    "colorsperset": 2
+  },
+  {
+    "year": 2005,
+    "theme_name": "Trains",
+    "set_name": "Bridge",
+    "num_of_parts": 26,
+    "partcatsperset": 1,
+    "colorsperset": 2
+  },
+  {
+    "year": 2005,
+    "theme_name": "Thomas & Friends",
+    "set_name": "James at Knapford Station",
+    "num_of_parts": 32,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Thomas & Friends",
+    "set_name": "Thomas Load and Carry Train Set",
+    "num_of_parts": 61,
+    "partcatsperset": 1,
+    "colorsperset": 2
+  },
+  {
+    "year": 2005,
+    "theme_name": "Thomas & Friends",
+    "set_name": "Percy at the Water Tower",
+    "num_of_parts": 15,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Catapult",
+    "num_of_parts": 27,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Jayko",
+    "num_of_parts": 6,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Star Wars",
+    "set_name": "Jedi Starfighter - Mini",
+    "num_of_parts": 38,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Star Wars",
+    "set_name": "Droid Tri-Fighter",
+    "num_of_parts": 148,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Star Wars",
+    "set_name": "ARC-170 Starfighter",
+    "num_of_parts": 400,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Sir Danju",
+    "num_of_parts": 42,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Lord Vladek",
+    "num_of_parts": 44,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2005,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Scorpion Prison Cave",
+    "num_of_parts": 279,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Clikits",
+    "set_name": "Sweet Dreamy Jewels",
+    "num_of_parts": 12,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Matoran of Metru Nui",
+    "set_name": "Nuhrii",
+    "num_of_parts": 27,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Titans",
+    "set_name": "Turaga Dume and Nivawk",
+    "num_of_parts": 180,
+    "partcatsperset": 2,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Titans",
+    "set_name": "Nidhiki",
+    "num_of_parts": 170,
+    "partcatsperset": 2,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Titans",
+    "set_name": "Krekka",
+    "num_of_parts": 213,
+    "partcatsperset": 2,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Danju (European version without Cards)",
+    "num_of_parts": 42,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Jayko (European version without Cards)",
+    "num_of_parts": 45,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Rascus (European version without Cards)",
+    "num_of_parts": 46,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Vladek (European version without Cards)",
+    "num_of_parts": 48,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "The Grand Tournament",
+    "num_of_parts": 321,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Danju (USA version with 3 Cards)",
+    "num_of_parts": 45,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Jayko (USA version with 3 Cards)",
+    "num_of_parts": 48,
+    "partcatsperset": 1,
+    "colorsperset": 2
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Rascus (USA version with 3 Cards)",
+    "num_of_parts": 49,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Santis (USA version with 3 Cards)",
+    "num_of_parts": 49,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2004,
+    "theme_name": "Knights Kingdom II",
+    "set_name": "Vladek (USA version with 3 Cards)",
+    "num_of_parts": 51,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Basketball",
+    "set_name": "Streetball 2 vs 2",
+    "num_of_parts": 186,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Clikits",
+    "set_name": "Jewels-n-Rings",
+    "num_of_parts": 80,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Clikits",
+    "set_name": "Jewels-n-Bands",
+    "num_of_parts": 80,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Clikits",
+    "set_name": "Jewels-n-Clips",
+    "num_of_parts": 72,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Hockey",
+    "set_name": "NHL Action Set with Stickers",
+    "num_of_parts": 61,
+    "partcatsperset": 4,
+    "colorsperset": 7
+  },
+  {
+    "year": 2003,
+    "theme_name": "Hockey",
+    "set_name": "Hockey Game Set",
+    "num_of_parts": 153,
+    "partcatsperset": 4,
+    "colorsperset": 7
+  },
+  {
+    "year": 2003,
+    "theme_name": "Matoran of Mata Nui",
+    "set_name": "Kopeke",
+    "num_of_parts": 25,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Matoran of Mata Nui",
+    "set_name": "Matoro",
+    "num_of_parts": 25,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Matoran of Mata Nui",
+    "set_name": "Hahli",
+    "num_of_parts": 25,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Matoran of Mata Nui",
+    "set_name": "Hewkii",
+    "num_of_parts": 25,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Matoran of Mata Nui",
+    "set_name": "Hafu",
+    "num_of_parts": 25,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Matoran of Mata Nui",
+    "set_name": "Macku",
+    "num_of_parts": 25,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Orient Expedition",
+    "set_name": "Scorpion Palace",
+    "num_of_parts": 354,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Orient Expedition",
+    "set_name": "Airplane",
+    "num_of_parts": 33,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Orient Expedition",
+    "set_name": "Mountain Sleigh",
+    "num_of_parts": 30,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Orient Expedition",
+    "set_name": "Black Cruiser",
+    "num_of_parts": 28,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Titans",
+    "set_name": "Makuta",
+    "num_of_parts": 199,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Titans",
+    "set_name": "Takanuva",
+    "num_of_parts": 199,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Toa Metru",
+    "set_name": "Toa Vakama",
+    "num_of_parts": 48,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2003,
+    "theme_name": "Turaga",
+    "set_name": "Vakama (Polybag version)",
+    "num_of_parts": 26,
+    "partcatsperset": 2,
+    "colorsperset": 2
+  },
+  {
+    "year": 2002,
+    "theme_name": "My Own Train",
+    "set_name": "Passenger Wagon Blue (White Box)",
+    "num_of_parts": 192,
+    "partcatsperset": 4,
+    "colorsperset": 4
+  },
+  {
+    "year": 2002,
+    "theme_name": "My Own Train",
+    "set_name": "9V Platform and Mini-Figures",
+    "num_of_parts": 47,
+    "partcatsperset": 4,
+    "colorsperset": 4
+  },
+  {
+    "year": 2002,
+    "theme_name": "My Own Train",
+    "set_name": "Large Train Engine with Tender Black (Motorizable, sets 4534, 4535)",
+    "num_of_parts": 204,
+    "partcatsperset": 4,
+    "colorsperset": 4
+  },
+  {
+    "year": 2002,
+    "theme_name": "Star Wars",
+    "set_name": "Final Duel I",
+    "num_of_parts": 32,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2002,
+    "theme_name": "Star Wars",
+    "set_name": "R2-D2",
+    "num_of_parts": 239,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2001,
+    "theme_name": "RCX",
+    "set_name": "Robotics Invention System, Version 2.0",
+    "num_of_parts": 720,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2001,
+    "theme_name": "Star Wars",
+    "set_name": "C-3PO",
+    "num_of_parts": 341,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2000,
+    "theme_name": "Soccer",
+    "set_name": "Black Bus",
+    "num_of_parts": 130,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2000,
+    "theme_name": "Star Wars",
+    "set_name": "Flash Speeder",
+    "num_of_parts": 107,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 2000,
+    "theme_name": "Star Wars",
+    "set_name": "Millennium Falcon",
+    "num_of_parts": 671,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1999,
+    "theme_name": "Harbor",
+    "set_name": "Speedboat",
+    "num_of_parts": 22,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1999,
+    "theme_name": "Ninja",
+    "set_name": "Ninja Blaster",
+    "num_of_parts": 24,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1999,
+    "theme_name": "Rock Raiders",
+    "set_name": "Rock Raiders",
+    "num_of_parts": 48,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1999,
+    "theme_name": "Technic",
+    "set_name": "LEGO Electrical Capacitor",
+    "num_of_parts": 1,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Classic Basic",
+    "set_name": "Challenger Set 300",
+    "num_of_parts": 363,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Desert",
+    "set_name": "Adventurers Car & Skeleton",
+    "num_of_parts": 69,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Desert",
+    "set_name": "Adventurers Tomb",
+    "num_of_parts": 81,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Insectoids",
+    "set_name": "Cosmic Creeper",
+    "num_of_parts": 59,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Insectoids",
+    "set_name": "Bi-Wing Blaster",
+    "num_of_parts": 114,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "RCX",
+    "set_name": "Remote Control",
+    "num_of_parts": 1,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Soccer",
+    "set_name": "Soccer Field",
+    "num_of_parts": 2,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Soccer",
+    "set_name": "Field Accessories",
+    "num_of_parts": 50,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Soccer",
+    "set_name": "Dutch National Player",
+    "num_of_parts": 4,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Soccer",
+    "set_name": "World Team Player",
+    "num_of_parts": 4,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Soccer",
+    "set_name": "Soccer Goalies",
+    "num_of_parts": 8,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Soccer",
+    "set_name": "German National Player",
+    "num_of_parts": 4,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1998,
+    "theme_name": "Soccer",
+    "set_name": "English Player",
+    "num_of_parts": 4,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1997,
+    "theme_name": "Cowboys",
+    "set_name": "Frontier Patrol",
+    "num_of_parts": 27,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1997,
+    "theme_name": "UFO",
+    "set_name": "Cyber Saucer",
+    "num_of_parts": 112,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1997,
+    "theme_name": "Supplemental",
+    "set_name": "Activity Booklets for Non-Motorized Simple Machines",
+    "num_of_parts": 18,
+    "partcatsperset": 22,
+    "colorsperset": 7
+  },
+  {
+    "year": 1993,
+    "theme_name": "Trains",
+    "set_name": "Curved Track (Curved Rails)",
+    "num_of_parts": 6,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1993,
+    "theme_name": "Duplo and Explore",
+    "set_name": "XL Bulk Set",
+    "num_of_parts": 564,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1991,
+    "theme_name": "9V",
+    "set_name": "Transformer and Speed Regulator",
+    "num_of_parts": 3,
+    "partcatsperset": 4,
+    "colorsperset": 2
+  },
+  {
+    "year": 1989,
+    "theme_name": "Technic",
+    "set_name": "Interface Card/Cable for Apple IIe and IIGS",
+    "num_of_parts": 1,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1987,
+    "theme_name": "Technic",
+    "set_name": "Technic Control Center",
+    "num_of_parts": 472,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1986,
+    "theme_name": "Supplemental",
+    "set_name": "LEGO Interface",
+    "num_of_parts": 4,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1981,
+    "theme_name": "Basic Set",
+    "set_name": "Basic Set",
+    "num_of_parts": 82,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1981,
+    "theme_name": "Gear",
+    "set_name": "Road Safety Kit Poster",
+    "num_of_parts": 0,
+    "partcatsperset": 9,
+    "colorsperset": 8
+  },
+  {
+    "year": 1981,
+    "theme_name": "Town",
+    "set_name": "Dacta Buildings",
+    "num_of_parts": 419,
+    "partcatsperset": 9,
+    "colorsperset": 8
+  },
+  {
+    "year": 1980,
+    "theme_name": "Town",
+    "set_name": "Town Vehicles",
+    "num_of_parts": 179,
+    "partcatsperset": 9,
+    "colorsperset": 8
+  },
+  {
+    "year": 1970,
+    "theme_name": "Fire",
+    "set_name": "Fire Station with Mini Cars",
+    "num_of_parts": 206,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1970,
+    "theme_name": "Vehicle",
+    "set_name": "Vintage Car",
+    "num_of_parts": 36,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1969,
+    "theme_name": "Building",
+    "set_name": "Bungalow",
+    "num_of_parts": 77,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  },
+  {
+    "year": 1969,
+    "theme_name": "Building",
+    "set_name": "House with Car",
+    "num_of_parts": 167,
+    "partcatsperset": 1,
+    "colorsperset": 1
+  }
+]
